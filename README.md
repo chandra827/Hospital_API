@@ -9,3 +9,4 @@ This is an API serving the routes for the hospital requirement
 - Type "npm install" and press enter to install all the required node_modules files (will take few seconds to install).
 - Type "npm start" and enter to run the server.
 
+- Live link https://hospital-api-ti0d.onrender.com
